@@ -1,1 +1,6 @@
-SQLAlchemy==2.0.21
+streamlit==1.16.0
+pymysql==1.0.2
+pandas==1.5.2
+folium==0.12.1
+streamlit-folium==0.10.0
+plotly==5.8.0
